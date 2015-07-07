@@ -1,0 +1,21 @@
+{
+  "generator-jhipster": {
+    "baseName": "myapp",
+    "packageName": "com.dangdang.mypp",
+    "packageFolder": "com/dangdang/mypp",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "no",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "7",
+    "enableTranslation": false,
+    "rememberMeKey": "90e55f420e1ecd4ea2745cb198c0b998c3caeb1d"
+  }
+}
